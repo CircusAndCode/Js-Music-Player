@@ -1,6 +1,6 @@
 # JS-Music-Player
 
-Music player for the #CircusAndCode website made using HTML 5 audio, CSS, and JS
+Music player for the #CoutureAndCode website made using HTML 5 audio, CSS, and JS
 
 ### Project-Color-List:
 
